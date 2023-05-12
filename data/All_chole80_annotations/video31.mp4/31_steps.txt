@@ -1,0 +1,7 @@
+Insert laparoscopic tools into abdomen  : (0:00:00,0:01:00)
+Locate gallbladder visually  : (0:01:00,0:15:07)
+Expose triangle of Calot and establish CVS  : (0:15:07,0:52:10)
+Divide cystic duct and artery  : (0:52:18,0:59:01)
+Clean-up  : (1:02:50,1:03:09)
+Place the gallbladder in the endocatch bag  : (1:03:34,1:04:39)
+Perform the final check  : (1:04:45,1:05:50)

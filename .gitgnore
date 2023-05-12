@@ -9,5 +9,7 @@
 
 .DS_Store
 .idea/
-outputs
-surgui_venv
+/venv
+/runs
+/wandb
+

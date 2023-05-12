@@ -1,0 +1,3 @@
+Gallbladder isolation  : (0:00:00,0:12:31)
+Gallbladder removal  : (0:12:31,0:29:41)
+Closure  : (0:29:41,0:37:43)

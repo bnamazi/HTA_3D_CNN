@@ -1,0 +1,4 @@
+Preparation  : (0:00:00,0:00:10)
+Gallbladder isolation  : (0:00:10,0:18:59)
+Gallbladder removal  : (0:18:59,0:25:19)
+Closure  : (0:25:19,0:28:49)
